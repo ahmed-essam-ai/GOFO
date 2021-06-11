@@ -4,6 +4,9 @@ import java.util.ArrayList;
 
 /**
  * class app used to store all user and playgrounds in array list.
+ *  @author Ahmed Essam El din 20190050 , Habiba Tarek Fathi 20190168 and Al-Hossain Abdalaziz Youssef 20190106
+ * @version 1
+ * @since 2020-6-10
  */
 public class App {
     private ArrayList<User> users = new ArrayList<User>();      // arraylist of users to hold all application users.
@@ -50,3 +53,5 @@ public class App {
     public int PlGSize(){
         return playGrounds.size();
     }
+    
+}
