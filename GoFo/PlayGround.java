@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * class playground used to make a playgrounds  object of owner to add them in the app.
- *  @author Ahmed Essam Eldin 20190050
+ *  @author Ahmed Essam El din 20190050 , Habiba Tarek Fathi 20190168 and Al-Hossain Abdalaziz Youssef 20190106
  *  * @version 1.2
  *  * @since 2020-6-10
  */
