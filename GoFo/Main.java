@@ -142,7 +142,7 @@ public class Main {
             System.out.println("0- log out");
             choice3 = sc.nextInt();
             if (choice3 == 1) {
-                for (int i = 0; i < system.PlGSize(); i++) {
+                for (int i = 0; i < system.getPlaygroundSize(); i++) {
                     System.out.println("playground ID: " + (i+1));
                     system.getPlayGround(i).displayPlayground();
                     System.out.print("\n");

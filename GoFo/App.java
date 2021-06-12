@@ -50,7 +50,7 @@ public class App {
      * function used to return the size of playground arraylist.
      * @return the size of playGrounds array.
      */
-    public int PlGSize(){
+    public int getPlaygroundSize(){
         return playGrounds.size();
     }
     
