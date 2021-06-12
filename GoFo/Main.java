@@ -144,7 +144,7 @@ public class Main {
             if (choice3 == 1) {
                 for (int i = 0; i < system.PlGSize(); i++) {
                     System.out.println("playground ID: " + (i+1));
-                    system.getPlayGround(i).displayPLG();
+                    system.getPlayGround(i).displayPlayground();
                     System.out.print("\n");
                 }
             }

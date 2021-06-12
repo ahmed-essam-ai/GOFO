@@ -95,10 +95,10 @@ public class PlayGround {
     }
 
     /**
-     * displayPLG function used to print current playgroud to user.
+     * displayPlayground function used to print current playgroud to user.
      * display all playground information (price / location / time slots)
      */
-    void displayPLG() {
+    void displayPlayground() {
         System.out.println("location: " + this.location);
         System.out.println("price: " + this.price);
         this.showTime();
